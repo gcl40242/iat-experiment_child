@@ -82,6 +82,7 @@ var instructions_block2 = {
   "<div style='position: absolute; top: 18%; right: 20%'>iキーを押す:<br>" +
   "<strong>良い</strong><br>" + "　　　<br>" + "<strong>　　</strong></div>" +
   "<div style='position: relative; top: 42%; margin-left: auto; margin-right: auto'><br><br><br><br><br><p>"+
+  "次のページから、課題の本番が始まります。できるだけ素早く、正確に回答してください。</p><p> " +
   "悪いカテゴリー/子どもカテゴリーの単語が表示されたら<strong>eキー</strong>を、<br>" +
   "良いカテゴリーの単語が表示されたら<strong>iキー</strong>を押してください。<br>" +
   "どの単語も、ひとつのカテゴリーにのみ属しています。</p><p>" +
