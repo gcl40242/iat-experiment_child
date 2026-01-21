@@ -291,7 +291,7 @@ var trial_block5 = {
     {type: 'iat-html', stimulus: "若い", stim_key_association: "right"},
     {type: 'iat-html', stimulus: "幼い", stim_key_association: "right"},
     {type: 'iat-html', stimulus: "未成熟な", stim_key_association: "right"},
-    {type: 'iat-html', stimulus: "小さな", stim_key_association: "right"},
+    {type: 'iat-html', stimulus: "小さい", stim_key_association: "right"},
     {type: 'iat-html', stimulus: "嫌悪感のある", stim_key_association: "right"},
     {type: 'iat-html', stimulus: "見苦しい", stim_key_association: "right"},
     {type: 'iat-html', stimulus: "卑しい", stim_key_association: "right"},
